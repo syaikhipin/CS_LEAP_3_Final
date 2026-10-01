@@ -29,5 +29,5 @@ Scaling first and keeping the labels hidden until the end made the exercise hone
 
 ## Files
 
-- `Final_Project_Option3_Seeds_Clustering.ipynb`, the completed notebook with all outputs visible (run top to bottom in Google Colab)
+- `Final_Project_Option3_Seeds_Clustering_github.ipynb`, the completed notebook with all outputs visible (run top to bottom in Google Colab)
 - `README.md`, this file
